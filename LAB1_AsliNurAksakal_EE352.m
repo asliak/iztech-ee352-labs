@@ -1,3 +1,6 @@
+# Farklı katsayılara ve farklı frekanslara sahip sinyallerin kendilerinin 
+ve Fourier transformasyonu hallerinin plot fonksiyonu ile gösterimi.
+
 a1 = 1;
 a2 = 2;
 a3 = 3/8;
