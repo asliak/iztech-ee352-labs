@@ -1,3 +1,4 @@
+# Amplitude Modulation
 Fs = 20000;
 t = 0:1/Fs:0.05;
 fm = 100;
