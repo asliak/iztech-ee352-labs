@@ -1,5 +1,5 @@
-# Farklı katsayılara ve farklı frekanslara sahip sinyallerin kendilerinin 
-ve Fourier transformasyonu hallerinin plot fonksiyonu ile gösterimi.
+% Farkli katsayilara ve farkli frekanslara sahip sinyallerin kendilerinin 
+% ve Fourier transformasyonu hallerinin plot fonksiyonu ile gosterimi.
 
 a1 = 1;
 a2 = 2;
