@@ -1,3 +1,6 @@
+% Bir sinyalin DSB-SC AM'ini, demodulasyona ugramis halini ve de 
+bunlarin Fourier transformasyonlarini plot fonksiyonlari ile gosteren kod.
+
 Am = 2;
 fm = 50;
 Ac = 1;
